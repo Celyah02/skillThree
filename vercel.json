@@ -2,7 +2,8 @@
     "redirects": [
       {
         "source": "/(.*)",
-        "destination": "/home.html"
+        "destination": "/home.html",
+        "statusCode": 200
       }
     ]
   }
